@@ -6,10 +6,10 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
+    <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./assets/img/kit/free/favicon.png">
     <title>
-        Portfolio de Tony PEREIRA
+        Veille technologique
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -21,7 +21,7 @@
     <!-- iframe removal -->
 </head>
 
-<body class="profile-page ">
+<body class="landing-page ">
     <nav class="navbar navbar-color-on-scroll navbar-transparent    fixed-top  navbar-expand-lg " color-on-scroll="100" id="sectionsNav">
         <div class="container">
             <div class="navbar-translate">
@@ -79,66 +79,24 @@
             </div>
         </div>
     </nav>
-    <div class="page-header header-filter" data-parallax="true" style="background-image: url('./assets/img/kit/bg2.jpg');"></div>
+    <div class="page-header header-filter" data-parallax="true" style=" background-image: url('./assets/img/kit/bgvt.jpg'); ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="title">Veille Technologique</h1>
+                    <h4>Dans cette page vous trouverez la veille technologique que j'ai choisi de vous présenter</h4>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="main main-raised">
-        <div class="profile-content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ml-auto mr-auto">
-                        <div class="profile">
-                            <div class="avatar">
-                                <img src="./assets/img/kit/faces/tony.jpg" alt="Circle Image" class="img-raised rounded-circle img-fluid">
-                            </div>
-                            <div class="name">
-                                <h3 class="title">Tony PEREIRA</h3>
-                                <h6>Apprenti Développeur</h6>
-                                <a href="https://www.linkedin.com/in/tonyprr/" class="btn btn-just-icon btn-link btn-linkedin"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                            <p>Je m'appelle Tony Pereira, j'ai 19 ans et je suis étudiant en 2ème année de BTS SIO option SLAM au CERFAL Campus Montsouris à 2 rue Lacaze, 75014 Paris. J'ai comme projet professionnel de devenir "Développeur Web Font-end". Dans ce portfolio on y trouvera des informations me concernant.</p>
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="section text-center">
+                
                 </div>
-                 <div class="card card-nav-tabs">
-                                <div class="card-header card-header-primary">
-                                    <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
-                                    <div class="nav-tabs-navigation">
-                                        <div class="nav-tabs-wrapper">
-                                            <ul class="nav nav-tabs" data-tabs="tabs">
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="#bts" data-toggle="tab">
-                                                        <i class="material-icons">school</i> Le BTS
-                                                    </a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="#slam" data-toggle="tab">
-                                                        <i class="material-icons">code</i> L'option SLAM
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card-body ">
-                                    <div class="tab-content text-center">
-                                        <div class="tab-pane active" id="bts">
-                                            <h4>En quoi consiste le BTS SIO ?</h4>
-                                            <p>Le brevet de technicien supérieur (Services informatiques aux organisations) est un cursus d'études se déroulant sur deux ans dans des lycées français, des écoles privées ou dans des centres de formation professionnelle. Il peut être préparé en formation continue, en alternance, par correspondance avec le Cned ou en formation initiale. Dés le deuxième semestre de la première année, une option doit être choisie par l'étudiant entre : </p>
-                                            <br>
-                                            <b>SLAM</b> (Solutions Logicielles et Applications Métiers) : centrée sur la conception de programmes et logiciels de gestion.
-                                            <br>
-                                            <b>SISR</b> (Solutions d'infrastructure, systèmes et réseaux) : tournée vers la gestion des infrastructures réseau d'un organisation.
-                                        </div>
-                                        <div class="tab-pane" id="slam">
-                                            <h4>L'option SLAM</h4>
-                                            <p>La spécialité « Solutions Logicielles et Applications Métiers » permet aux étudiants de réaliser des logiciels, des sites web, de rédiger de la documentation liée à la solution applicative, de former des utilisateurs et de faire de la maintenance applicative, À la fin de son BTS SIO spécialité SLAM, l'étudiant sera apte à devenir : Analyste d'application, Analyste d'études, Analyste programmeur, Développeur d'applications informatiques, Technicien d'études informatiques, Chargé d'études...</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <br>
-                        </div>
-                    </div>
-                </div>
+            </div>
+        </div>
     <footer class="footer ">
         <div class="container">
             <div class="copyright pull-right">

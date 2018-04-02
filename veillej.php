@@ -9,7 +9,7 @@
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./assets/img/kit/free/favicon.png">
     <title>
-        Veille technologique
+        Veille juridique
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -79,12 +79,12 @@
             </div>
         </div>
     </nav>
-    <div class="page-header header-filter" data-parallax="true" style=" background-image: url('./assets/img/kit/bgvt.jpg'); ">
+    <div class="page-header header-filter" data-parallax="true" style=" background-image: url('./assets/img/kit/bgvj.jpg'); ">
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <h1 class="title">Veille Technologique</h1>
-                    <h4>Dans cette page vous trouverez la veille technologique que j'ai choisi de vous présenter</h4>
+                    <h1 class="title">Veille Juridique</h1>
+                    <h4>Dans cette page vous trouverez la veille juridique que j'ai choisi de vous présenter</h4>
                     <br>
                 </div>
             </div>
@@ -95,30 +95,29 @@
             <div class="section">
                 <div class="row">
                     <div class="col-md-12">
-                    <h3 class="title">Qu'est-ce-que la veille technologique ?</h3>
-                    <p>La veille technologique ou veille numérique consiste à s’informer de façon systématique sur les techniques les plus récentes et surtout sur leur mise à disposition commerciale. Cette activité met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations et leur distribution automatique aux différentes sections concernées de l’entreprise, à la manière d’une revue de presse. Ces informations peuvent concerner une matière première, un produit, un composant, un procédé, l’état de l’art et l’évolution de l’environnement scientifique, technique, industriel ou commercial de l’entreprise. Elle permet aux bureaux d’études d’être informés des baisses possibles de coût ou d’augmentation de qualité dans le cadre de l’analyse de la valeur. L’entité de production connaît mieux grâce à elle ses limites de production et sa concurrence future.</p>
+                    <h3 class="title">Qu'est-ce-que la veille juridique ?</h3>
+                    <p>La veille juridique est une veille spécialisée dans le domaine du droit, elle sert à analyser et suivre les nouvelles réglementations ainsi que celles qui sont en préparation (au niveau d’un territoire national). Elle comprend aussi dans le cadre européen, le suivi des directives européennes et des transcriptions nationales. Elle intègre donc la veille législative, réglementaire, jurisprudentielle et/ou doctrinale.</p>
                     <h3 class="title">Ma veille choisie :</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-5">
                      <div class="card" style="width: auto;">
-                        <img class="card-img-top" src="assets/img/kit/iris.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="assets/img/kit/datacenter.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h4 class="card-title">Le lecteur d'iris</h4>
-                                <p class="card-text">La reconnaissance de l'iris est une technique de biométrie permettant de reconnaitre une personne par l'observation de son iris.</p>
-                                <a href="https://fr.wikipedia.org/wiki/Reconnaissance_de_l%27iris" class="btn btn-primary">En savoir plus</a>
+                                <h4 class="card-title">L'hébergement Web</h4>
+                                <p class="card-text">C'est à dire mettre à disposition des internautes des sites web conçus et gérés par des tiers en ligne.</p>
+                                <a href="https://fr.wikipedia.org/wiki/H%C3%A9bergeur_web" class="btn btn-primary">En savoir plus</a>
                             </div>
                         </div>
                     </div>
                         <div class="col-md-7">
-                            <h4 class="title">Pourquoi le lecteur d'iris ?</h4>
-                        <p>J'ai choisi le lecteur d'iris comme veille technologique car il se présente comme un nouveau moyen innovant pour renforcer la sécurité dans plusieurs domaines : La domotique, les données virtuels, l'authentification...<br>
-                        De plus, la detection de l'iris peut se faire avec très peu de lumière, notamment grâce à la technologie infrarouge mais également avec des lunettes.</p>
+                            <h4 class="title">Pourquoi le l'hébergement Web ?</h4>
+                        <p>J'ai choisi le lecteur d'iris comme veille juridique car on peut se dire qu'héberger un site web est quelque chose de simple alors qu'en fin de compte l'herbèrgement web doit être présenté comme un moyen sécurisé pour les utilisateurs.</p>
                             <h4 class="title">Avantages :</h4>
-                            <p> <b>- Identification unique :</b> Chacun possède sa propre biométrie.
+                            <p> <b>- Support :</b> Support technique en cas de problème.
                                 <br>
-                                <b>- Rapidité :</b> Aujourd'hui la detection se fait en moins de 4 secondes.
+                                <b>- Sécurité :</b> La plupart des hébergeurs garantisse que leurs offres d'hébergements sont sécurisés.
                                 <br>
                                 <b>- Technique fiable :</b> Même à travers des lunettes ou bien des lentilles.
                                 <br>
@@ -141,26 +140,26 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <center>
-                             <div id="rssincl-box-container-1176913"></div>
-                            <script type="text/javascript">
-                            (function() {
-                              var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-                              s.src = 'http://output28.rssinclude.com/output?type=asyncjs&id=1176913&hash=75549910f48aa2f4fb41bb00009a3fba';
-                              document.getElementsByTagName('head')[0].appendChild(s);
-                            })();
-                            </script>
+                                    <div id="rssincl-box-container-1176918"></div>
+                                    <script type="text/javascript">
+                                    (function() {
+                                      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                                      s.src = 'http://output68.rssinclude.com/output?type=asyncjs&id=1176918&hash=2bab932bf2a5b5f9523be5d6c3a6a9d4';
+                                      document.getElementsByTagName('head')[0].appendChild(s);
+                                    })();
+                                    </script>
                                     </center>
                                 </div>
                                 <div class="col-md-6">
                                     <center>
-                            <div id="rssincl-box-container-1176916"></div>
-                            <script type="text/javascript">
-                            (function() {
-                              var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-                              s.src = 'http://output53.rssinclude.com/output?type=asyncjs&id=1176916&hash=066fc7be90bbe8dd242d11c907557363';
-                              document.getElementsByTagName('head')[0].appendChild(s);
-                            })();
-                            </script>
+                                    <div id="rssincl-box-container-1176919"></div>
+                                    <script type="text/javascript">
+                                    (function() {
+                                      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                                      s.src = 'http://output70.rssinclude.com/output?type=asyncjs&id=1176919&hash=f9a0a9e82d873eff63dda6e7293e78c6';
+                                      document.getElementsByTagName('head')[0].appendChild(s);
+                                    })();
+                                    </script>
                                     </center>
                                 </div>
                         </div>

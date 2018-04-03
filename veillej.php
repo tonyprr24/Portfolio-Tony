@@ -118,18 +118,9 @@
                             <p> <b>- Support :</b> Support technique en cas de problème.
                                 <br>
                                 <b>- Sécurité :</b> La plupart des hébergeurs garantisse que leurs offres d'hébergements sont sécurisés.
-                                <br>
-                                <b>- Technique fiable :</b> Même à travers des lunettes ou bien des lentilles.
-                                <br>
-                                <b>- Stable au court du temps :</b> Les progrès en optique rendent la texture de l'iris stable.
-                            </p>
                             <h4 class="title">Inconvénients :</h4>
                             <p>
-                                <b>- Prise de vue difficile :</b> La taille de l'iris est très variable suivant la lumière ambiante ou l'état de fatigue.
-                                <br>
-                                <b>- Distance œil / appareil :</b>  La fiabilité diminue proportionnellement à la distance entre l'œil et la caméra.
-                                <br>
-                                <b>- Coût de la technologie :</b> L'infrastructure est plus lourde que pour les empreintes digitales.
+                                <b>- Sécurité :</b> Malgré la garantie au niveau sécurité, le piratage du serveur peut être envisageable.
                             </p>
                         </div>
                     </div>
